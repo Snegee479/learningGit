@@ -13,6 +13,7 @@ import java.util.Scanner;
 		System.out.println("sorted values are");
 		for(int j:a) {
 			System.out.println(j);
+			
 		}
 		int low=0;
 		int high=a.length-1;
